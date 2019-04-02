@@ -2,11 +2,11 @@
 
 ## Intro
 
-TODO explain project
+Lorem Ipsum...
 
 ## Functional Description
-TODO describe functionality
+Lorem Ipsum...
 
 ## Techincal Description
 
-TODO describe specs
+Lorem Ipsum...
